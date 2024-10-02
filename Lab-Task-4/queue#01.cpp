@@ -65,8 +65,7 @@ int main(){
     cout<<"NOW : "<<q.deque()<<endl;
     cout<<"NOW : "<<q.deque()<<endl;
     cout<<"NOW : "<<q.deque()<<endl;
+    // cout<<"NOW : "<<q.deque()<<endl;
     cout<<"NOW : "<<q.deque()<<endl;
-    cout<<"NOW : "<<q.deque()<<endl;
-
 
 }

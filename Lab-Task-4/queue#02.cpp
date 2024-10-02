@@ -7,7 +7,6 @@ class Queue{
 
     string word1,word2,word3,word4,combo;
     int wordInc = 0;
-    int whitespace;
 
     public:
 
@@ -48,8 +47,7 @@ class Queue{
         cout<<"Queue 4 :  "<< word4<<endl;
 
     }
-
-    
+   
     void enqueue(){
 
         combo = word1 + " " + word2 + " " + word3 + " " + word4;
